@@ -1,0 +1,11 @@
+*{
+    max-width: 350px;
+    margin: auto;
+    margin-top: 20px;
+}
+h1{
+    color: goldenrod;
+}
+.container {
+    background-color: gray;
+}

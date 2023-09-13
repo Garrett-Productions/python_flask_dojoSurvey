@@ -1,0 +1,25 @@
+*{
+    max-width: 350px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.card-body{
+    background-color: lightgray;
+}
+
+.card-content{
+    color: black;
+}
+
+.card-title{
+    color: black;
+    text-decoration: underline;
+}
+
+button{
+    background-color: lightcoral;
+    color:black;
+    text-decoration: underline;
+    border-radius: 3px;
+}
